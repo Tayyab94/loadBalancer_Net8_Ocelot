@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pcuTfQT7ZSn9eSjOmBM5Ez6eI0x+dXV/TcJpSoHxZIo=",
+  "Source": "Invoice_WebAPI",
+  "BasePath": "_content/Invoice_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
